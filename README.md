@@ -18,7 +18,9 @@ segmentation is involved for written words. Further steps involve feature select
 
 A convolutional neural network (CNN) is a type of artificial neural network used in image recognition and processing that is specifically designed to process pixel data.
 CNNs are powerful image processing, artificial intelligence (AI) that use deep learning to perform both generative and descriptive tasks, often using machine vison that includes image and video recognition, along with recommender systems and natural language processing (NLP).
-Implementation
+![image](https://user-images.githubusercontent.com/69593978/163766151-6a73dc76-dcc2-4c8d-b55e-09255a533e3a.png)
+
+**Implementation**
 This system was made using deep learning concepts. Following is brief introductions about languages and services that is used for building this application.
 The first task was to choose dataset. Here I have used A_Z Handwritten Alphabet dataset as this dataset contains 26 folders (A-Z) containing handwritten images in size 2828 pixels, each alphabet in the image is center fitted to 2020 pixel box. approximate 3.5 lacks images in this dataset. The dataset is suitable for testing several features or trainable classifiers. In order to simplify the comparison of algorithms, the images are divided into several categories, which also makes them suitable for training and testing classifiers.
 Step 1 - Read a Data from given dataset.
