@@ -38,6 +38,6 @@ Keras (version 2.3.1)
 Tensorflow (Keras uses TensorFlow in backend and for some image preprocessing) (version 2.0.0)
 Matplotlib (version 3.1.1)
 Pandas (version 0.25.1)
----
+
 
 Handwritten character recognition is a complex problem because of a variety of character in different languages. The complex architecture of characters is another major reason that makes the handwritten character recognition task stuff. Research in this direction focuses on segmentation procedures, feature extraction procedure, and classification algorithms. Various machine learning techniques have been used for solving the same problem. Initially, we presented a procedure of handwritten character recognition for English language.
