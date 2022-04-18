@@ -12,6 +12,8 @@ fields of banking , healthcare and other fields for searchability , storabilit
 There is a variety of challenges in the handwritten character recognition system. Process of the handwritten recognition system is shown in Figure1. There are two categories in character recognition: online and offline character recognition. Online character recognition involves a digital pen and tablet. Offline recognition includes handwritten and printed characters. Handwritten characters have a lot of varieties. Segmentation and without
 segmentation is involved for written words. Further steps involve feature selection. Optimization can be used to speed up the process of classification. Subsequently, there is a requirement of a classification algorithm for reading features.
 
+https://cdn-images-1.medium.com/max/800/0*vfZkxqeMGMtu7YTg
+
 **What is CNN?**
 
 A convolutional neural network (CNN) is a type of artificial neural network used in image recognition and processing that is specifically designed to process pixel data.
