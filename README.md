@@ -30,8 +30,8 @@ Step 6 - Doing Prediction on External Image
 
 Python (3.7.4 used)
 IDE (Jupyter used)
+Required frameworks are
 
-**Required frameworks are**
 Numpy (version 1.16.5)
 cv2 (openCV) (version 3.4.2)
 Keras (version 2.3.1)
