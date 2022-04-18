@@ -12,7 +12,7 @@ fields of banking , healthcare and other fields for searchability , storabilit
 There is a variety of challenges in the handwritten character recognition system. Process of the handwritten recognition system is shown in Figure1. There are two categories in character recognition: online and offline character recognition. Online character recognition involves a digital pen and tablet. Offline recognition includes handwritten and printed characters. Handwritten characters have a lot of varieties. Segmentation and without
 segmentation is involved for written words. Further steps involve feature selection. Optimization can be used to speed up the process of classification. Subsequently, there is a requirement of a classification algorithm for reading features.
 
-https://cdn-images-1.medium.com/max/800/0*vfZkxqeMGMtu7YTg
+![image](https://user-images.githubusercontent.com/69593978/163765956-550dec67-14c9-4849-b0e5-2cc109cda056.png)
 
 **What is CNN?**
 
