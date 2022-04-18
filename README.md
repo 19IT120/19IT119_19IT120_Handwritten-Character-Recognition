@@ -29,8 +29,10 @@ Step 6 - Doing Prediction on External Image
 **prerequisites for this project:**
 
 Python (3.7.4 used)
+
 IDE (Jupyter used)
-Required frameworks are
+
+**Required frameworks are**
 
 Numpy (version 1.16.5)
 
